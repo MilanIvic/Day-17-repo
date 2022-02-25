@@ -1,4 +1,4 @@
-package main;
+package main;//domain interfejs implementacija, u novoj grani , merge u master
 
 public class Main {
 
